@@ -11,7 +11,7 @@ Let's shape the future of mobile together 🚀📱
 
 ## 💻 Tech Stack
 
-### 🍎 iOS & Apple Ecosystem
+##### 🍎 iOS & Apple Ecosystem
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
@@ -27,7 +27,7 @@ Let's shape the future of mobile together 🚀📱
 
 ---
 
-### 🌐 Web & Backend
+##### 🌐 Web & Backend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@ Let's shape the future of mobile together 🚀📱
 
 ---
 
-### 🎨 Design & Tools
+##### 🎨 Design & Tools
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
