@@ -58,8 +58,7 @@ Let’s shape the future of mobile together 🚀📱
 
 ## ✨ Random Dev Quote
 
-> _"Don't worry about anything. Just do what you can and be the best you can be."_  
-> — *Douglas Crockford*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <!--
 **Kaansengun/Kaansengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
