@@ -45,8 +45,8 @@ Let’s shape the future of mobile together 🚀📱
 ## 📊 GitHub Stats
 
 ![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaansengun&show_icons=true&theme=dark&hide_border=false&count_private=true)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaansengun&layout=compact&theme=dark&hide_border=false) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kaansengun&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -58,7 +58,7 @@ Let’s shape the future of mobile together 🚀📱
 
 ## ✨ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto)
+![Quote](https://github-readme-quotes-xi.vercel.app/api?theme=kaantheme&font=monospace&type=horizontal)
 <!--
 **Kaansengun/Kaansengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
