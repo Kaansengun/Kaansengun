@@ -47,7 +47,7 @@ Let’s shape the future of mobile together 🚀📱
 ![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaansengun&show_icons=true&theme=dark&hide_border=false&count_private=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaansengun&layout=compact&theme=dark&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaansengun&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kaansengun&theme=dark&hide_border=false)
 
 ---
 
