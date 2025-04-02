@@ -45,7 +45,6 @@ Let's shape the future of mobile together 🚀📱
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -53,7 +52,6 @@ Let's shape the future of mobile together 🚀📱
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaansengun&layout=compact&theme=dark&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaansengun&theme=dark&hide_border=false)
 
 ---
 
