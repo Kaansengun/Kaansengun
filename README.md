@@ -58,7 +58,7 @@ Let’s shape the future of mobile together 🚀📱
 
 ## ✨ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto)
 <!--
 **Kaansengun/Kaansengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
