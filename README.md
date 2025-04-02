@@ -5,8 +5,6 @@ I focus on building seamless digital experiences that combine performance, funct
 
 Beyond Swift and iOS development, I also have a strong foundation in **Java** and **Python**, which allows me to understand backend processes, perform data-related tasks, and approach problems from a full-stack perspective.
 
-I’m a continuous learner who thrives on exploring new technologies, challenging myself with innovative projects, and collaborating with others to build impactful software.  
-
 Let's shape the future of mobile together 🚀📱
 
 ---
